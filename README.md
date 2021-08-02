@@ -23,6 +23,10 @@ Today have created a small code using list as topic.
 Day 8
 Today have created a small code using stacks and implemented it.
 
+Day 9
+Created a function
+1. To get list or creat a new list
+2. To find sum of the list 
 
-
-
+Day 10
+Implemented linear search algorithm
