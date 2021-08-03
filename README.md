@@ -30,3 +30,6 @@ Created a function
 
 Day 10
 Implemented linear search algorithm
+
+Day 11
+Created a own mart
