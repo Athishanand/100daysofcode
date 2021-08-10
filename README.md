@@ -33,3 +33,18 @@ Implemented linear search algorithm
 
 Day 11
 Created a own mart
+
+Day 12
+Learnt and implemented queue
+
+Day 13
+Created a chatbot to take pizza orders in house
+
+Day 14
+Made a own BMI calculator
+
+Day 15
+Created a random password generator 
+
+Day 16
+Created a OTP generator
