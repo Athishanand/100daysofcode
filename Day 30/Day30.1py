@@ -1,0 +1,18 @@
+#publisher
+
+#!/usr/bin/python
+
+import rospy
+from std_msgs.msg import Int64
+
+def publisher():
+	rospy.init_node('hi', )
+	pub = rospy.Publisher('hello', Int64, queue_size=10)
+	rate = rospy.Rate(10)
+	while not rospy.is_shutdown():
+		hello_str = 10
+		rospy.loginfo(hello_str)
+		pub.publish(hello_str)
+		rate.sleep()
+
+publisher()
