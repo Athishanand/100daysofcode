@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import rospy
-from rmp08.srv import multiplier,multiplierResponse
+from insta.srv import multiplier,multiplierResponse
 
 def callback(request):
     return multiplierResponse(request.a * request.b)
