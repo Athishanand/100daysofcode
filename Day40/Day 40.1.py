@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import rospy
-from rmp08.srv import multiplier,multiplierResponse
+from insta.srv import multiplier,multiplierResponse
 
 def multiplier_client(x,y):
     rospy.init_node("client")
